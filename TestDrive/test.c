@@ -16,8 +16,7 @@ int test05(void)
     
     FrontLED(ON);
     BackLED(ON, ON);
-
-        
+                                                                       
     //SerWrite("Begin...", 8);
     //SerWrite("Waiting for command... ", 23);
 
